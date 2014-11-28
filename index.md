@@ -8,7 +8,7 @@ tagline: ANTH 350-101, Winter 2015
 
 <div style="text-align:center">
 <figure>
-  <a title="Cartoon monkey" href="http://bateyt.github.io/anth350eou-primatepops/assets/pics/monkey_cartoon.png"><img alt="Cartoon monkey" src="bateyt.github.io/anth350eou-primatepops/assets/pics/monkey_cartoon.png"/></a>
+  <img alt="Cartoon monkey" src="http://bateyt.github.io/anth350eou-primatepops/assets/pics/monkey_cartoon.png"/></a>
 </figure>
 </div>
 
