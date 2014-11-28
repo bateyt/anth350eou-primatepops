@@ -6,11 +6,11 @@ tagline: ANTH 350-101, Winter 2015
 {% include JB/setup %}
 
 
-<!--<div style="text-align:center">
+<div style="text-align:center">
 <figure>
-  <a title="Cartoon monkey" href="http://commons.wikimedia.org/wiki/File%3AEditorial_cartoon_depicting_Charles_Darwin_as_an_ape_(1871).jpg"><img width="256" alt="Cartoon monkey" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Editorial_cartoon_depicting_Charles_Darwin_as_an_ape_%281871%29.jpg/256px-Editorial_cartoon_depicting_Charles_Darwin_as_an_ape_%281871%29.jpg"/></a>
+  <a title="Cartoon monkey" href="http://bateyt.github.io/anth350eou-primatepops/assets/pics/monkey_cartoon.png"><img alt="Cartoon monkey" src="bateyt.github.io/anth350eou-primatepops/assets/pics/monkey_cartoon.png"/></a>
 </figure>
-</div>-->
+</div>
 
 # Welcome
 
