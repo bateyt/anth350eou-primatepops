@@ -9,7 +9,7 @@ toc_depth: 2
 
 ## General Information
 
-- Course Number:  ANTH 454-101 (CRN: 68120)
+- Course Number:  ANTH 350-101 (CRN: 68120)
 - Course Name:  Primate Populations
 - Credit Hours:  2.00
 - Course Time and Location:  6--7 February 2015, [EOU Portland Center](https://www.eou.edu/eouportland/); additional materials (readings, resources, quizzes, etc.) provided via Canvas.
