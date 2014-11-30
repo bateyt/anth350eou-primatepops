@@ -1,0 +1,60 @@
+---
+title: "Primate Populations:  Course Overview"
+author: "Trey Batey"
+date: "Winter 2015"
+output:
+  ioslides_presentation:
+    incremental: yes
+    logo: ~/GitHub/anth350eou-primatepops/assets/pics/eou_logo_21.jpg
+    smaller: yes
+    widescreen: yes
+---
+
+## General Information
+
+- Course Number:  ANTH 454-101 (CRN: 68120)
+- Course Name:  Primate Populations
+- Credit Hours:  2.00
+- Course Time and Location:  6--7 February 2015, [EOU Portland Center](https://www.eou.edu/eouportland/)
+
+
+## Resources in Blackboard or Canvas?
+
+Since EOU is migrating to the Canvas Learning Management System (LMS) by the Fall 2015 term, __I have decided to deploy portions of this couse in Canvas__.
+
+- If you haven't yet taken an online class in Canvas, please take a short time---seriously, less than 12 minutes---and watch the Canvas Student Orientation Video, created by EOU's rockin' IT staff and provided in the next slide. _(You can also watch the video at a later time by following the link below the video.)_
+
+
+## Canvas Student Orientation Video
+
+<iframe src="http://player.vimeo.com/video/97347021" width="300" height="169" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/97347021">Canvas Student Orientation</a> from <a href="http://vimeo.com/user17570673">James Long</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
+## Required Texts
+There is no required textbook for this course; however the following materials will be provided in Canvas.
+
+- Quizzes
+
+- Additional required readings
+
+- Supplemental electronic resources
+
+
+## Course Structure
+
+Students will be evaluated using...
+
+- 3--4 quizzes prior to the weekend session,
+
+- attendance/participation in the weekend session,
+
+- a short research paper due at the end of the term.
+
+
+## Coming soon...
+
+- More information on the class will be added to this presentation by the start of the Winter 2015 term.
+
+- Course content will be available in Canvas. I will also  maintain some content at [the course's website](https://bateyt.github.io/anth350eou-primatepops) (still under construction).
+
+- For more information, please contact [Trey Batey](mailto:ebatey@eou.edu).
