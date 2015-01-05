@@ -101,4 +101,7 @@ If you have a documented disability or suspect that you have a learning problem 
 
 <br>
 Prepared by Trey Batey.
+
 Last updated 4 January 2015
+
+<br>
