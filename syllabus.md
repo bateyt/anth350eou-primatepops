@@ -56,11 +56,10 @@ Requirements for this course include 3--4 quizzes, mandatory attendance/particip
 
 
 ### Grading Scale
-<<<<<<< HEAD
+
 Grades for individual assignments (i.e., quizzes and the research paper) are assigned as percentages (calculated as points-earned/points-possible). The attendance/participation score is calculated by time present (i.e., was the student present for the entire session) and participation in any activities. Each student's final grade is calculated as a weighted average. All quizzes carry the same weight, and one's quiz average counts toward 20% of the final grade. The research paper accounts for 30% of the final grade. Attendance during the weekend session accounts for 50% of the final grade.
-=======
-Grades for individual assignments (i.e., quizzes and the research paper) are assigned as percentages (calculated as points-earned/points-possible). The attendance/participation score is calculated by time present (i.e., was the student present for the entire session) and participation in any activities. Each student’s final grade is calculated as a weighted average. All quizzes carry the same weight, and one’s quiz average counts toward 20% of the final grade. The research paper accounts for 30% of the final grade. Attendance during the weekend session accounts for 50% of the final grade.
->>>>>>> 8144bca8e11b44a09fbbab0b1b4278fb6151770d
+
+__Late Work Policy: Late work may be submitted up to 3 days after the due date. Late work is penalized at a rate of the point equivalent of one letter grade per day late. Any work submitted more than three days past the due date will not be accepted.__
 
 Final grades are determined based on a basic, 10-points system:
 
@@ -74,8 +73,6 @@ F | 59 and below|
 |=====
 |    |    |
 {: class="table"}
-
-__Late Work Policy: Late work may be submitted up to 3 days after the due date. Late work is penalized at a rate of the point equivalent of one letter grade per day late. Any work submitted more than three days past the due date will not be accepted.__
 
 
 
@@ -104,9 +101,4 @@ If you have a documented disability or suspect that you have a learning problem 
 
 <br>
 Prepared by Trey Batey.
-
-<<<<<<< HEAD
 Last updated 4 January 2015
-=======
-Last updated 4 January 2015
->>>>>>> 8144bca8e11b44a09fbbab0b1b4278fb6151770d
